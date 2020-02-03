@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="238fda6d-8175-4f76-a19d-fa37c8ca1845" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="361" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SI0Pwty4HBir2bKrFQZL9Xz6Da" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.splicegirls.Main" />
+      <module name="20191017_square-canvas-paint" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="238fda6d-8175-4f76-a19d-fa37c8ca1845" name="Default Changelist" comment="" />
+      <created>1571235781405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571235781405</updated>
+      <workItem from="1571235784556" duration="10507000" />
+      <workItem from="1571246830867" duration="2161000" />
+      <workItem from="1571300957781" duration="26164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="342" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580738965669">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="569" y="342" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.846@0.23.1440.846" timestamp="1580738965669" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1580739276467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.846@0.0.1440.900" timestamp="1580739276467" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.846@0.23.1440.846" timestamp="1580739031566" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1580739276466">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.846@0.0.1440.900" timestamp="1580739276466" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.846@0.23.1440.846" timestamp="1580739031565" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1580739276466">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580739276466" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.846@0.23.1440.846" timestamp="1580739031564" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1580739276467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.846@0.0.1440.900" timestamp="1580739276467" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.846@0.23.1440.846" timestamp="1580739031565" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/20191017_EnergyOnTopGame$Main.ic" NAME="Main Coverage Results" MODIFIED="1571329080750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
