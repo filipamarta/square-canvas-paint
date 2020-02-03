@@ -1,4 +1,4 @@
-package org.academiadecodigo.splicegirls;
+package squarecanvaspaint;
 
 public class Main {
     public static void main(String[] args) {

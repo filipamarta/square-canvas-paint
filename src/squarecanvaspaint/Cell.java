@@ -1,4 +1,4 @@
-package org.academiadecodigo.splicegirls;
+package squarecanvaspaint;
 
 import org.academiadecodigo.simplegraphics.graphics.Color;
 import org.academiadecodigo.simplegraphics.graphics.Rectangle;

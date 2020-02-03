@@ -1,4 +1,4 @@
-package org.academiadecodigo.splicegirls;
+package squarecanvaspaint;
 
 public class Game  {
 
